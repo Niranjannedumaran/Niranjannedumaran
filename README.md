@@ -1,20 +1,22 @@
+
 🌌 Niranjan Nedumaran
 
-🎨 UI Architect of 20+ Projects | 💻 Code Explorer | 🚀 Future Innovator
+⚡ UI Visionary | Full-Stack Explorer | Cybersecurity Guardian ⚡
 
-✨ I don’t just design interfaces — I craft experiences.
-⚡ Currently navigating the worlds of:
-JavaScript • Java • C • C++ • Python • SQL • Assembly • HTML • CSS • DSA
+🎨 UI Architect of 20+ Projects → I craft digital experiences that don’t just look good — they feel alive.
+💻 Code Polyglot → Fluent in JavaScript • Java • C • C++ • Python • SQL • Assembly • HTML • CSS • DSA.
+🔐 Cybersecurity Defender → Backed by 20+ certifications and a battle-tested Red Team mindset.
 
-🔐 Cybersecurity is my side quest (20+ certifications, Red Team mindset).
-🌍 Mission: To merge design, development, and defense into products that feel alive, look sleek, and run secure.
+✨ Philosophy:
+“Design inspires. Code empowers. Security protects.”
 
-“Code builds. Design speaks. Security protects."
+💞 Open to Collaborations On:
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail me in niranjannedumaran@gmail.com...
+🚀 Next-Gen UI/UX & Product Design
+⚡ Innovative Full-Stack Solutions
+🛡️ Advanced Cybersecurity & Ethical Hacking
+🌍 Future-Driven Tech Innovations
 
-<!---
-Niranjannedumaran/Niranjannedumaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Connect With Me:
+
+📧 niranjannedumaran@gmail.com
